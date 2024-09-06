@@ -1,0 +1,28 @@
+10/10/23 16:42
+
+Problem1 (5 points):
+Score += 5
+
+Problem2 (10 points):
+These should be boundary plots. Not filled in
+Score += 7
+
+Problem3 (10 points):
+No colorbar
+Score += 8
+
+Problem4 (10 points):
+Score += 10
+
+Problem5 (10 points):
+Score += 10
+
+CodeQuality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

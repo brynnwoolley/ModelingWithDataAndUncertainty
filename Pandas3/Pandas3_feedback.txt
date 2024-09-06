@@ -1,0 +1,28 @@
+09/27/23 23:06
+
+Problem1 (8 points):
+Score += 8
+
+Problem2 (9 points):
+Score += 9
+
+Problem3 (9 points):
+Score += 9
+
+Problem4 (9 points):
+On the education intervals, you should have returned the numeric interval rather than a string
+Score += 8
+
+Problem5 (10 points):
+Your first and third answers are incorrect
+Score += 7
+
+CodeQuality (5 points):
+Score += 5
+
+Total score: 46/50 = 92.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

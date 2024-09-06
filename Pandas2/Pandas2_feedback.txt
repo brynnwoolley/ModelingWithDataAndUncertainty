@@ -1,0 +1,52 @@
+09/19/23 18:25
+
+Problem1 (10 points):
+Score += 10
+
+Problem2 (10 points):
+Score += 10
+
+Problem3 (10 points):
+Need a label on the x-axis of your box plot
+Score += 9
+
+Problem4 (15 points):
+No citations on any of the figures
+Score += 9
+
+CodeQuality (5 points):
+Score += 5
+
+Total score: 43/50 = 86.0%
+
+-------------------------------------------------------------------------------
+
+09/27/23 23:43
+
+Problem1 (10 points):
+Score += 10
+
+Problem2 (10 points):
+Score += 10
+
+Problem3 (10 points):
+ 
+Score += 9
+
+Problem4 (15 points):
+Correct for grader error
+Score += 13
+
+CodeQuality (5 points):
+Score += 5
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+
+Comments:
+	Corrected for grader error
+
+-------------------------------------------------------------------------------
+

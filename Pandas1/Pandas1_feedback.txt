@@ -1,0 +1,31 @@
+09/13/23 15:31
+
+prob1 (5 points):
+Score += 5
+
+prob2 (10 points):
+It looks like you hard-coded the values in. I can see that you looked at the correlation matrix, but you should have returned the label s of the largest non-diagonal entry of the correlation matrix
+Score += 9
+
+prob3 (10 points):
+Again looks like you hard-coded values. I can see that you looked at the dataframe, but the goal is to be able to return all answers without having to hard-code anything.
+Score += 9
+
+prob4 (5 points):
+Score += 5
+
+prob5 (5 points):
+Score += 5
+
+prob6 (10 points):
+Score += 10
+
+code_quality (5 points):
+Score += 5
+
+Total score: 48/50 = 96.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
