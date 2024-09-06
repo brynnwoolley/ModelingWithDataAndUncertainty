@@ -1,0 +1,23 @@
+11/08/23 22:26
+
+Problem1 (10 points):
+Score += 10
+
+Problem2 (10 points):
+Score += 10
+
+Problem3 (15 points):
+Score += 15
+
+Problem4 (10 points):
+Score += 10
+
+CodeQuality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
