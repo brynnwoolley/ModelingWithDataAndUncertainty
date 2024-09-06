@@ -1,0 +1,29 @@
+01/30/24 20:09
+
+Problem1 (10 points):
+None of the graphs look right. I think it is because you take the log of a when deciding to accept, but I could be wrong.
+Score += 5
+
+Problem2 (5 points):
+Score += 5
+
+Problem3 (5 points):
+Score += 5
+
+Problem4 (5 points):
+Score += 5
+
+Problem5 (5 points):
+Score += 5
+
+Problem6 (15 points):
+Missing some titles and no acceptance rates
+Score += 10
+
+CodeQuality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
