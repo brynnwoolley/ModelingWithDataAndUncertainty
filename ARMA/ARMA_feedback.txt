@@ -1,0 +1,30 @@
+03/19/24 18:09
+
+Problem1 (5 points):
+Score += 5
+
+Problem2 (10 points):
+Score += 10
+
+Problem3 (10 points):
+Score += 10
+
+Problem4 (10 points):
+Score += 10
+
+Problem5 (5 points):
+Score += 5
+
+Problem6 (5 points):
+Missing upper confidence interval
+Score += 4
+
+CodeQuality (5 points):
+Score += 5
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
