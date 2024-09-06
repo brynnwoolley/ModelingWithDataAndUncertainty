@@ -1,0 +1,35 @@
+02/14/24 18:56
+
+Problem1 (2 points):
+Score += 2
+
+Problem2 (5 points):
+Score += 5
+
+Problem3 (5 points):
+Score += 5
+
+Problem4 (5 points):
+Score += 5
+
+Problem5 (5 points):
+Score += 5
+
+Problem6 (8 points):
+Score += 8
+
+Problem7 (10 points):
+No plots
+Score += 5
+
+Problem8 (5 points):
+Remember that GMM is 'flexible with the boundaries it draws' is because it does not assume an identity covariance matrix.
+Score += 3
+
+Code_Quality (5 points):
+Score += 5
+
+Total score: 43/50 = 86.0%
+
+-------------------------------------------------------------------------------
+

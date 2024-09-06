@@ -1,0 +1,37 @@
+02/27/24 18:25
+
+Problem1 (5 points):
+Score += 5
+
+Problem2 (5 points):
+Score += 5
+
+Problem3 (5 points):
+Score += 5
+
+Problem4 (5 points):
+Score += 5
+
+Problem5 (5 points):
+Your sequence is actually slightly wrong for the stocks vectors. You need to reshape the row you pull from B to be a column vector in the line where you compute eta.
+Score += 4
+
+Problem6 (10 points):
+Score += 10
+
+Problem7 (10 points):
+Score += 10
+
+CodeQuality (5 points):
+Score += 5
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+
+Comments:
+	You should see better results for Problem 6 and 7 if you run it multiple times.
+
+-------------------------------------------------------------------------------
+
