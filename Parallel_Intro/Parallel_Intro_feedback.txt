@@ -1,0 +1,26 @@
+11/28/23 14:57
+
+Problem 1 (5 points):scipy.sparse not imported on all engines
+
+Score += 0
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+I'm a little concerned your parallel isn't actually performing correctly. If you come see me in office hours, we can see what actually happened and possibly get points back.
+Score += 8
+
+Problem 5 (20 points):
+Score += 20
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 43/50 = 86.0%
+
+-------------------------------------------------------------------------------
+

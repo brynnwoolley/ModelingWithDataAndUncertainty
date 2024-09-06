@@ -1,0 +1,41 @@
+11/01/23 18:24
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problems 3 & 4 (15 points):
+Score += 15
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Traceback (most recent call last):
+  File "base_test_driver.py", line 436, in test_all
+    points = func(student_module)
+  File "base_test_driver.py", line 159, in wrapper
+    return func(*args, **kwargs)
+  File "test_driver.py", line 180, in problem6
+    stu_tree_2 = s.build_tree(self.animals.copy(), self.animal_features.copy(), random_subset=True)
+  File "random_forest.py", line 208, in build_tree
+    right_branch = build_tree(right, feature_names, min_samples_leaf, max_depth,
+  File "random_forest.py", line 204, in build_tree
+    left, right = partition(data, opt_question)
+  File "random_forest.py", line 54, in partition
+    if question.match(i):
+AttributeError: 'NoneType' object has no attribute 'match'
+Score += 5
+
+
+Problem 7 (5 points):
+NotImplementedError: Problem 7 Incomplete
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+
