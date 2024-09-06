@@ -1,0 +1,34 @@
+02/06/24 21:05
+
+Problem1 (5 points):
+Values do not look correct. Looks like you aren't updating your value of sigma based on the new mus. Also I thik there is an error in your calculation of mu_star. I believe sigma should already be squared.
+Score += 3
+
+Problem2 (5 points):
+Plots are wrong for reasons discussed in Problem 1. Also missing the posterior predictive distribution
+Score += 2
+
+Problem3 (5 points):
+Score += 5
+
+Problem4 (5 points):
+Score += 5
+
+Problem5 (5 points):
+Score += 5
+
+Problem6 (10 points):
+Score += 10
+
+Problem7 (10 points):
+Score += 10
+
+Code_Quality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
